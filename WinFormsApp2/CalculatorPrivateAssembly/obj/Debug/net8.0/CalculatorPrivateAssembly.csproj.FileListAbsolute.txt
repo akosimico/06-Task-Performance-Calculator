@@ -1,0 +1,11 @@
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.deps.json
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.dll
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.pdb
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.AssemblyInfoInputs.cache
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.AssemblyInfo.cs
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.dll
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\obj\Debug\net8.0\refint\CalculatorPrivateAssembly.dll
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.pdb
+C:\Users\JC\source\repos\WinFormsApp2\CalculatorPrivateAssembly\obj\Debug\net8.0\ref\CalculatorPrivateAssembly.dll
